@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-This is a comprehensive database and web application project for managing animal shelters, developed as the final project for **INF 305: Database Management Systems 2** at SDU.
-
-**Status:** ✅ Phase 2 Complete (16 of 21 features) | **Last Updated:** December 10, 2025
+This is a comprehensive database and web application project for managing animal shelters
 
 ## Quick Start - Database Setup
 
@@ -428,24 +426,6 @@ Plus 3+ additional reporting queries
 
 ---
 
-## Course Requirements Met (All ✅)
-
-✓ **Advanced SQL** - 15+ complex queries, joins, aggregates, subqueries  
-✓ **Database Normalization** - 3NF design with no redundancy  
-✓ **PL/SQL Functions** - 6 functions for business logic  
-✓ **PL/SQL Procedures** - 6 procedures for operations  
-✓ **PL/SQL Packages** - 3 packages for code organization  
-✓ **Exception Handling** - 3 custom exceptions, RAISE_APPLICATION_ERROR  
-✓ **PL/SQL Triggers** - 5 triggers for automation and audit  
-✓ **Cursors & Records** - 5 cursors + 5 records for advanced processing  
-✓ **Views** - 10 views for query optimization  
-✓ **Transactions** - COMMIT, ROLLBACK for data integrity  
-✓ **APEX** - 8 pages with CRUD operations + analytics  
-✓ **Data Visualization** - 8+ charts and interactive dashboards  
-✓ **Data Management** - 150+ records with proper constraints  
-
----
-
 ## Files Included
 
 | File | Purpose | Size |
@@ -475,25 +455,6 @@ For detailed information, see:
 
 ---
 
-## Future Enhancements
-
-### Phase 3 (Planned)
-- [ ] Financial Report page (donations/funding trends)
-- [ ] User Profile & Settings page
-- [ ] Advanced search with saved filters
-- [ ] PDF/Excel export functionality
-- [ ] Email notifications & alerts
-
-### Phase 4 (Long-term)
-- Mobile app for field staff
-- SMS/email notifications for adoptions
-- Integration with veterinary software
-- Advanced analytics and custom dashboards
-- Load balancing and replication
-- Historical data archival
-
----
-
 ## Technical Stack
 
 | Layer | Technology |
@@ -516,36 +477,3 @@ For questions or issues:
 3. Review README_APEX.md for application usage
 4. Check README_Database.md for database setup
 5. Review SQL comments in code files (8 scripts) for explanations
-
----
-
-## Academic Integrity
-
-This project was completed as part of INF 305: Database Management Systems 2 coursework. All code is original work demonstrating mastery of database management concepts including:
-
-- Advanced SQL (15+ queries)
-- PL/SQL functions (6), procedures (6), packages (3), exceptions (3)
-- Database triggers (5), cursors (5), records (5)
-- Database normalization (3NF), views (10), sequences (3)
-- Oracle APEX (8 pages with CRUD + analytics)
-- Data visualization (8+ charts)
-- Transaction management
-
----
-
-## Project Status & Timeline
-
-| Phase | Status | Completion | Key Deliverables |
-|-------|--------|------------|------------------|
-| Phase 1 | ✅ Complete | Dec 7, 2025 | 5 core pages, database, CRUD, 8 SQL files |
-| Phase 2 | ✅ Complete | Dec 10, 2025 | 4 analytics pages, 15+ queries, 8+ charts |
-| Phase 3 | 📋 Planned | Dec 11-17 | Financial reports, export, alerts |
-| Phase 4 | 📋 Future | Jan 2026+ | Mobile app, advanced features |
-
-**Overall Progress:** ✅ 76% Complete (16 of 21 planned features)
-
----
-
-**Project Status**: ✓ Phase 2 Complete & Production-Ready
-
-Last Updated: December 10, 2025, 4:49 AM +05
